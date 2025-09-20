@@ -18,6 +18,7 @@ public class Game {
     }
     
     private void generateNodes() {
+        //example game Rock paper scissors
         //generate start
         start = new Node("Start", true);
         //generate p1 options
@@ -56,4 +57,5 @@ public class Game {
     }
    
     
+
 }
